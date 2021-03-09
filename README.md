@@ -14,9 +14,14 @@ Assist in refactoring PowerShell code; removing all configuration parameters fro
 
 ## Usage
 - Download code from GitHub
-```git clone https://github.com/CC-Digital-Innovation/Get-IniFile-Function.git```
+
+```
+git clone https://github.com/CC-Digital-Innovation/Get-IniFile-Function.git
+```
+
 _Note:  If you don't have Git installed you can also just grab the zip:
 [https://github.com/CC-Digital-Innovation/Get-IniFile-Function/archive/master.zip](https://github.com/CC-Digital-Innovation/Get-IniFile-Function/archive/master.zip)_
+
 - Identify all constants and variable that should be removed from your source code
 - Logically organize constants and variable in to sections containing key:value pairs
 - Edit config.ini, create the appropriate sections, start adding key value pairs.
