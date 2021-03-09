@@ -50,7 +50,7 @@ _Note:  See MyProgram.ps1 for more examples_
 This is only tested on Windows and most likely will only work on Windows. It should be possible to support PowerShell Core on Linux with only minor adjustments so leave a feature request if there is any interest in that.
 
 ## Disclaimer
-The code provided in this project is an open source example and should not be treated as an officially supported product. Use at your own risk. If you encounter any problems, please log an [issue](https://github.com/kylefernandadams/box-powershell-example/issues).
+The code provided in this project is an open source example and should not be treated as an officially supported product. Use at your own risk. If you encounter any problems, please log an [issue](https://github.com/CC-Digital-Innovation/Get-IniFile-Function/issues).
 
 
 ## Contributing
